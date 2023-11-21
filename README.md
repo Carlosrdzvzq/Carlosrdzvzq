@@ -1,6 +1,6 @@
 # Hola, mi nombre es Carlos Rodriguez 👋
 
-![https://github.com/Carlosrdzvzq](https://raw.githubusercontent.com/Carlosrdzvzq/Carlosrdzvzq/master/Banner.png)
+![https://github.com/Carlosrdzvzq](https://raw.githubusercontent.com/Carlosrdzvzq/Carlosrdzvzq/master/Banner_Git.png)
 
 Estudiante del último semestre en Ingeniería en Tecnologías de la Información y Comunicaciones.
 A lo largo de mi carrera, he participado en proyectos académicos y concursos que destacan mi
