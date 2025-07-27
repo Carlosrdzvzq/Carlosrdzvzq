@@ -2,8 +2,8 @@
 
 ![https://github.com/Carlosrdzvzq](https://raw.githubusercontent.com/Carlosrdzvzq/Carlosrdzvzq/master/Banner_Git.png)
 
-Estudiante del último semestre en Ingeniería en Tecnologías de la Información y Comunicaciones.
-A lo largo de mi carrera, he participado en proyectos académicos y concursos que destacan mi
+Ingeniero en Tecnologías de la Información y Comunicaciones.
+A lo largo de mi vida profesional, he participado en proyectos y concursos que destacan mi
 habilidad para abordar desafíos complejos y aprender de manera ágil. Además, he
 complementado mi formación con cursos adicionales, demostrando mi compromiso continuo con
 la adquisición de conocimientos
